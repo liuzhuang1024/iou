@@ -16,4 +16,4 @@ def iou(box1, box2):
 
 
 if __name__ == '__main__':
-    print(iou([1, 1, 3, 3, ], [2, 2, 4, 4, ]))
+    print(iou([2, 2, 5, 5, ], [2, 2, 4, 4, ]))
